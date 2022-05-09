@@ -1,0 +1,51 @@
+[
+  {
+      "id": 1,
+      "name": "Santafe Cafe",
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.9499544108126!2d44.513066215422214!3d40.187927179392304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd1e3d6770d7%3A0x3598cc11b81e4c29!2sSantafe%20Cafe-restaurant!5e0!3m2!1sru!2s!4v1652136477558!5m2!1sru!2s",
+      "rating": 8.5,
+      "email": "santafe@santafe.com"
+  },
+  {
+     "id": 2,
+     "name": "Crumb Cafe",
+     "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.02394850389!2d44.511510215422376!3d40.18628047939263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abce20b13046d%3A0x16c83bf4141aea66!2sCrumbs%20Bread%20Factory%2FCafe!5e0!3m2!1sru!2s!4v1652136579652!5m2!1sru!2s",
+     "rating": 9.0,
+     "email": "crumb@crumb.com"
+  },
+  {
+     "id": 3,
+     "name": "Sherep Restaurant",
+     "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.3804975974836!2d44.50882121542215!3d40.178344879393514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcf963d1253f%3A0x45731d07b927e010!2zU2hlcmVwIFJlc3RhdXJhbnQgKNWH1aXWgNWl1oMg1bzVpdW91b_VuNaA1aHVtik!5e0!3m2!1sru!2s!4v1652136646336!5m2!1sru!2s",
+     "rating": 7.2,
+     "email": "sherep@sherep.com"
+  },
+  {
+     "id": 4,
+     "name": "Montmartre Restaurant",
+     "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.3359928107966!2d44.50855931542226!3d40.179335479393515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfbf61de37f%3A0x5e6ac7892eeda34e!2sMonmartre!5e0!3m2!1sru!2s!4v1652136754150!5m2!1sru!2s",
+     "rating": 7.0,
+     "email": "Montmarte@montmarte.com"
+  },
+  {
+     "id": 5,
+     "name": "Abovyan 12 Restaurant",
+     "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.2592192382376!2d44.514052815422104!3d40.181044279393234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfb35b0d235%3A0x5efe26223e77ef13!2sDalan%20Art%20Gallery%20and%20Cafe%E2%80%9D%20Abovyan%2012%20%E2%80%9C!5e0!3m2!1sru!2s!4v1652136831525!5m2!1sru!2s",
+     "rating": 6.7,
+     "email": "abovyan12@abovyan12.com"
+  },
+  {
+     "id": 6,
+     "name": "Alaska Restaurant",
+     "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.163041776463!2d44.50676591542222!3d40.183184879392925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfd6978e1d3%3A0x64ed2dc2fd02d968!2sAlaska%20by%20Hans%26Franz!5e0!3m2!1sru!2s!4v1652136897051!5m2!1sru!2s",
+     "rating": 9.8,
+     "email": "alaska@alaska.com"
+  },
+  {
+     "id": 7,
+     "name": "Black Angus",
+     "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6096.227594450434!2d44.51123052680159!3d40.18428086757099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfb3df853b1%3A0x3855a3ca951f7944!2z0JHQu9GN0Log0JDQvdCz0YPRgQ!5e0!3m2!1sru!2s!4v1652137032690!5m2!1sru!2s",
+     "rating": 8.8,
+     "email": "tashir@tashir.com"
+  }
+ ]

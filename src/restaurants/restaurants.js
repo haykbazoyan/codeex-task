@@ -13,9 +13,8 @@ export function Restaurants() {
     },
   })
     .then((response) => response.json())
-    .then((json) => json);
-
-  console.log("DATA:: ", dataAPI);
+    .then((json) => json)
+    .catch((err) => console.log(err.message));
 
   //   return (
   //     <div className="list-container">

@@ -1,4 +1,4 @@
-# Codeex Task
+# CodeInno Task
 
 Create a project that consists of two pages.
 On the first page, there should be a restaurants list sorted by rate(on the backside) on the

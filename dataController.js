@@ -8,8 +8,8 @@ const getJsonData = function (basePathToData, filename) {
   return JSON.parse(fs.readFileSync(filename, "utf-8"));
 };
 
-exports.getData = function (request, response) {
-  var data = getJsonData(basePathToData, "data.json");
+exports.getData = async function (request, response) {
+  var data = await getJsonData(basePathToData, "data.json");
   setTimeout(function () {
     return response.send(data);
   }, 100);
